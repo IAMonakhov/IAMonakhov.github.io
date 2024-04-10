@@ -147,13 +147,18 @@
 
 					embedpano({
 
-					xml:"vsedata/vse.xml"
+						id:"krpanoSWFObject"
 
-					,target:"panoDIV"
-					,passQueryParameters:true
+,swf:"vsedata/index.swf"
 
-					,html5:"only"
+,target:"panoDIV"
+,passQueryParameters:true
+,bgcolor:"#000000"
 
+,html5:"prefer"
+
+
+,wmode: getWmodeValue()
 
 					});
 
