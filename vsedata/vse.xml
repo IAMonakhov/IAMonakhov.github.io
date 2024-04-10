@@ -75,20 +75,20 @@
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="vsedata/_05_04_2024_44_45/0/2/%v_%u.jpg"/>
-        <right url="vsedata/_05_04_2024_44_45/1/2/%v_%u.jpg"/>
-        <back  url="vsedata/_05_04_2024_44_45/2/2/%v_%u.jpg"/>
-        <left  url="vsedata/_05_04_2024_44_45/3/2/%v_%u.jpg"/>
-        <up    url="vsedata/_05_04_2024_44_45/4/2/%v_%u.jpg"/>
-        <down  url="vsedata/_05_04_2024_44_45/5/2/%v_%u.jpg"/>
+        <front url="_05_04_2024_44_45/0/2/%v_%u.jpg"/>
+        <right url="_05_04_2024_44_45/1/2/%v_%u.jpg"/>
+        <back  url="_05_04_2024_44_45/2/2/%v_%u.jpg"/>
+        <left  url="_05_04_2024_44_45/3/2/%v_%u.jpg"/>
+        <up    url="_05_04_2024_44_45/4/2/%v_%u.jpg"/>
+        <down  url="_05_04_2024_44_45/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="vsedata/_05_04_2024_44_45/0/1/%v_%u.jpg"/>
-        <right url="vsedata/_05_04_2024_44_45/1/1/%v_%u.jpg"/>
-        <back  url="vsedata/_05_04_2024_44_45/2/1/%v_%u.jpg"/>
-        <left  url="vsedata/_05_04_2024_44_45/3/1/%v_%u.jpg"/>
-        <up    url="vsedata/_05_04_2024_44_45/4/1/%v_%u.jpg"/>
-        <down  url="vsedata/_05_04_2024_44_45/5/1/%v_%u.jpg"/>
+        <front url="_05_04_2024_44_45/0/1/%v_%u.jpg"/>
+        <right url="_05_04_2024_44_45/1/1/%v_%u.jpg"/>
+        <back  url="_05_04_2024_44_45/2/1/%v_%u.jpg"/>
+        <left  url="_05_04_2024_44_45/3/1/%v_%u.jpg"/>
+        <up    url="_05_04_2024_44_45/4/1/%v_%u.jpg"/>
+        <down  url="_05_04_2024_44_45/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
         <front url="_05_04_2024_44_45/0/0/%v_%u.jpg"/>
