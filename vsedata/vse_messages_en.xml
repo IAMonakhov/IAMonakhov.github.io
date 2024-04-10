@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[FINAh]]></data>
+
+
+
+  <data name="en_pano45_title"><![CDATA[05.04.2024-44]]></data>
+  <data name="en_spotpoint117_tooltip"><![CDATA[05.04.2024-43]]></data>
+
+
+  <data name="en_pano9_title"><![CDATA[05.04.2024-10]]></data>
+  <data name="en_spotpoint180_tooltip"><![CDATA[05.04.2024-9]]></data>
+  <data name="en_spotpoint182_tooltip"><![CDATA[05.04.2024-35]]></data>
+
+
+  <data name="en_pano10_title"><![CDATA[05.04.2024-11]]></data>
+  <data name="en_spotpoint193_tooltip"><![CDATA[05.04.2024-13]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[05.04.2024-12]]></data>
+  <data name="en_spotpoint188_tooltip"><![CDATA[05.04.2024-14]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[05.04.2024-13]]></data>
+  <data name="en_spotpoint192_tooltip"><![CDATA[05.04.2024-11]]></data>
+  <data name="en_spotpoint194_tooltip"><![CDATA[05.04.2024-34]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[05.04.2024-14]]></data>
+  <data name="en_spotpoint186_tooltip"><![CDATA[05.04.2024-33]]></data>
+  <data name="en_spotpoint187_tooltip"><![CDATA[05.04.2024-12]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[05.04.2024-15]]></data>
+  <data name="en_spotpoint134_tooltip"><![CDATA[05.04.2024-16]]></data>
+
+
+  <data name="en_pano15_title"><![CDATA[05.04.2024-16]]></data>
+  <data name="en_spotpoint130_tooltip"><![CDATA[05.04.2024-42]]></data>
+  <data name="en_spotpoint131_tooltip"><![CDATA[05.04.2024-36]]></data>
+  <data name="en_spotpoint133_tooltip"><![CDATA[05.04.2024-15]]></data>
+  <data name="en_spotpoint135_tooltip"><![CDATA[05.04.2024-17]]></data>
+
+
+  <data name="en_pano16_title"><![CDATA[05.04.2024-17]]></data>
+  <data name="en_spotpoint136_tooltip"><![CDATA[05.04.2024-16]]></data>
+  <data name="en_spotpoint137_tooltip"><![CDATA[05.04.2024-18]]></data>
+
+
+  <data name="en_pano17_title"><![CDATA[05.04.2024-18]]></data>
+  <data name="en_spotpoint138_tooltip"><![CDATA[05.04.2024-17]]></data>
+  <data name="en_spotpoint141_tooltip"><![CDATA[05.04.2024-7]]></data>
+  <data name="en_spotpoint142_tooltip"><![CDATA[05.04.2024-29]]></data>
+
+
+  <data name="en_pano18_title"><![CDATA[05.04.2024-19]]></data>
+
+
+  <data name="en_pano19_title"><![CDATA[05.04.2024-20]]></data>
+
+
+  <data name="en_pano20_title"><![CDATA[05.04.2024-21]]></data>
+  <data name="en_spotpoint161_tooltip"><![CDATA[05.04.2024-23]]></data>
+  <data name="en_spotpoint163_tooltip"><![CDATA[05.04.2024-45]]></data>
+
+
+  <data name="en_pano21_title"><![CDATA[05.04.2024-22]]></data>
+  <data name="en_spotpoint167_tooltip"><![CDATA[05.04.2024-39]]></data>
+
+
+  <data name="en_pano22_title"><![CDATA[05.04.2024-23]]></data>
+  <data name="en_spotpoint159_tooltip"><![CDATA[05.04.2024-26]]></data>
+  <data name="en_spotpoint160_tooltip"><![CDATA[05.04.2024-21]]></data>
+  <data name="en_spotpoint162_tooltip"><![CDATA[05.04.2024-22]]></data>
+
+
+  <data name="en_pano23_title"><![CDATA[05.04.2024-24]]></data>
+  <data name="en_spotpoint157_tooltip"><![CDATA[05.04.2024-25]]></data>
+
+
+  <data name="en_pano24_title"><![CDATA[05.04.2024-25]]></data>
+  <data name="en_spotpoint155_tooltip"><![CDATA[05.04.2024-26]]></data>
+  <data name="en_spotpoint156_tooltip"><![CDATA[05.04.2024-24]]></data>
+
+
+  <data name="en_pano25_title"><![CDATA[05.04.2024-26]]></data>
+  <data name="en_spotpoint153_tooltip"><![CDATA[05.04.2024-29]]></data>
+  <data name="en_spotpoint154_tooltip"><![CDATA[05.04.2024-25]]></data>
+  <data name="en_spotpoint158_tooltip"><![CDATA[05.04.2024-23]]></data>
+
+
+  <data name="en_pano26_title"><![CDATA[05.04.2024-27]]></data>
+  <data name="en_spotpoint150_tooltip"><![CDATA[05.04.2024-28]]></data>
+
+
+  <data name="en_pano27_title"><![CDATA[05.04.2024-28]]></data>
+  <data name="en_spotpoint149_tooltip"><![CDATA[05.04.2024-27]]></data>
+  <data name="en_spotpoint151_tooltip"><![CDATA[05.04.2024-29]]></data>
+
+
+  <data name="en_pano28_title"><![CDATA[05.04.2024-29]]></data>
+  <data name="en_spotpoint145_tooltip"><![CDATA[05.04.2024-18]]></data>
+  <data name="en_spotpoint146_tooltip"><![CDATA[05.04.2024-30]]></data>
+  <data name="en_spotpoint148_tooltip"><![CDATA[05.04.2024-28]]></data>
+  <data name="en_spotpoint152_tooltip"><![CDATA[05.04.2024-26]]></data>
+
+
+  <data name="en_pano29_title"><![CDATA[05.04.2024-3]]></data>
+  <data name="en_spotpoint124_tooltip"><![CDATA[05.04.2024-42]]></data>
+  <data name="en_spotpoint125_tooltip"><![CDATA[05.04.2024-5]]></data>
+
+
+  <data name="en_pano30_title"><![CDATA[05.04.2024-30]]></data>
+  <data name="en_spotpoint147_tooltip"><![CDATA[05.04.2024-31]]></data>
+
+
+  <data name="en_pano31_title"><![CDATA[05.04.2024-31]]></data>
+  <data name="en_spotpoint198_tooltip"><![CDATA[05.04.2024-32]]></data>
+  <data name="en_spotpoint199_tooltip"><![CDATA[05.04.2024-30]]></data>
+  <data name="en_spotpoint200_tooltip"><![CDATA[05.04.2024-39]]></data>
+  <data name="en_spotpoint201_tooltip"><![CDATA[05.04.2024-37]]></data>
+
+
+  <data name="en_pano32_title"><![CDATA[05.04.2024-32]]></data>
+  <data name="en_spotpoint196_tooltip"><![CDATA[05.04.2024-34]]></data>
+  <data name="en_spotpoint197_tooltip"><![CDATA[05.04.2024-31]]></data>
+
+
+  <data name="en_pano33_title"><![CDATA[05.04.2024-33]]></data>
+  <data name="en_spotpoint184_tooltip"><![CDATA[05.04.2024-36]]></data>
+  <data name="en_spotpoint185_tooltip"><![CDATA[05.04.2024-14]]></data>
+  <data name="en_spotpoint190_tooltip"><![CDATA[05.04.2024-34]]></data>
+
+
+  <data name="en_pano34_title"><![CDATA[05.04.2024-34]]></data>
+  <data name="en_spotpoint191_tooltip"><![CDATA[05.04.2024-13]]></data>
+  <data name="en_spotpoint195_tooltip"><![CDATA[05.04.2024-32]]></data>
+
+
+  <data name="en_pano35_title"><![CDATA[05.04.2024-35]]></data>
+  <data name="en_spotpoint178_tooltip"><![CDATA[05.04.2024-36]]></data>
+  <data name="en_spotpoint179_tooltip"><![CDATA[05.04.2024-10]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[05.04.2024-36]]></data>
+  <data name="en_spotpoint132_tooltip"><![CDATA[05.04.2024-16]]></data>
+  <data name="en_spotpoint176_tooltip"><![CDATA[05.04.2024-39]]></data>
+  <data name="en_spotpoint177_tooltip"><![CDATA[05.04.2024-35]]></data>
+  <data name="en_spotpoint183_tooltip"><![CDATA[05.04.2024-33]]></data>
+
+
+  <data name="en_pano37_title"><![CDATA[05.04.2024-37]]></data>
+  <data name="en_spotpoint170_tooltip"><![CDATA[05.04.2024-39]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[05.04.2024-38]]></data>
+  <data name="en_spotpoint172_tooltip"><![CDATA[05.04.2024-39]]></data>
+  <data name="en_spotpoint173_tooltip"><![CDATA[05.04.2024-46]]></data>
+  <data name="en_spotpoint174_tooltip"><![CDATA[05.04.2024-22]]></data>
+
+
+  <data name="en_pano39_title"><![CDATA[05.04.2024-39]]></data>
+  <data name="en_spotpoint168_tooltip"><![CDATA[05.04.2024-38]]></data>
+  <data name="en_spotpoint169_tooltip"><![CDATA[05.04.2024-37]]></data>
+  <data name="en_spotpoint175_tooltip"><![CDATA[05.04.2024-36]]></data>
+
+
+  <data name="en_pano40_title"><![CDATA[05.04.2024-4]]></data>
+  <data name="en_spotpoint119_tooltip"><![CDATA[05.04.2024-43]]></data>
+  <data name="en_spotpoint120_tooltip"><![CDATA[05.04.2024-5]]></data>
+
+
+  <data name="en_pano41_title"><![CDATA[05.04.2024-40]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[05.04.2024-41]]></data>
+
+
+  <data name="en_pano43_title"><![CDATA[05.04.2024-42]]></data>
+  <data name="en_spotpoint126_tooltip"><![CDATA[05.04.2024-3]]></data>
+  <data name="en_spotpoint129_tooltip"><![CDATA[05.04.2024-16]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[05.04.2024-43]]></data>
+  <data name="en_spotpoint115_tooltip"><![CDATA[05.04.2024-44]]></data>
+  <data name="en_spotpoint116_tooltip"><![CDATA[05.04.2024-48]]></data>
+  <data name="en_spotpoint118_tooltip"><![CDATA[Добро пожаловать!]]></data>
+  <data name="en_spotpoint202_tooltip"><![CDATA[05.04.2024-10]]></data>
+
+
+  <data name="en_pano46_title"><![CDATA[05.04.2024-45]]></data>
+  <data name="en_spotpoint164_tooltip"><![CDATA[05.04.2024-21]]></data>
+  <data name="en_spotpoint165_tooltip"><![CDATA[05.04.2024-46]]></data>
+
+
+  <data name="en_pano47_title"><![CDATA[05.04.2024-46]]></data>
+  <data name="en_spotpoint166_tooltip"><![CDATA[05.04.2024-45]]></data>
+
+
+  <data name="en_pano48_title"><![CDATA[05.04.2024-47]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[05.04.2024-48]]></data>
+  <data name="en_spotpoint114_tooltip"><![CDATA[05.04.2024-43]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[05.04.2024-5]]></data>
+  <data name="en_spotpoint121_tooltip"><![CDATA[05.04.2024-4]]></data>
+  <data name="en_spotpoint122_tooltip"><![CDATA[05.04.2024-6]]></data>
+  <data name="en_spotpoint123_tooltip"><![CDATA[05.04.2024-3]]></data>
+
+
+  <data name="en_pano51_title"><![CDATA[05.04.2024-6]]></data>
+  <data name="en_spotpoint203_tooltip"><![CDATA[05.04.2024-5]]></data>
+  <data name="en_spotpoint204_tooltip"><![CDATA[05.04.2024-7]]></data>
+
+
+  <data name="en_pano52_title"><![CDATA[05.04.2024-7]]></data>
+  <data name="en_spotpoint143_tooltip"><![CDATA[05.04.2024-18]]></data>
+  <data name="en_spotpoint144_tooltip"><![CDATA[05.04.2024-6]]></data>
+
+
+  <data name="en_pano54_title"><![CDATA[05.04.2024-9]]></data>
+  <data name="en_spotpoint181_tooltip"><![CDATA[05.04.2024-10]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
