@@ -156,7 +156,7 @@
 <!-- **** @PanoName="05.04.2024-10" @PanoFile="D:/Загрузки/05.04.2024-10.jpg" **** -->
 <scene name="pano9"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_10_9/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_10_9/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano9_title"
@@ -180,32 +180,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_10_9/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_10_9/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_10_9/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_10_9/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_10_9/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_10_9/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_10_9/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_10_9/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_10_9/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_10_9/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_10_9/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_10_9/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_10_9/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_10_9/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_10_9/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_10_9/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_10_9/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_10_9/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_10_9/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_10_9/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_10_9/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_10_9/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_10_9/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_10_9/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_10_9/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_10_9/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_10_9/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_10_9/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_10_9/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_10_9/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_10_9/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_10_9/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_10_9/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_10_9/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_10_9/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_10_9/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_10_9/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_10_9/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -287,7 +287,7 @@
 <!-- **** @PanoName="05.04.2024-11" @PanoFile="D:/Загрузки/05.04.2024-11.jpg" **** -->
 <scene name="pano10"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_11_10/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_11_10/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano10_title"
@@ -311,32 +311,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_11_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_11_10/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_11_10/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_11_10/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_11_10/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_11_10/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_11_10/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_11_10/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_11_10/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_11_10/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_11_10/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_11_10/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_11_10/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_11_10/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_11_10/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_11_10/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_11_10/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_11_10/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_11_10/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_11_10/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_11_10/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_11_10/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_11_10/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_11_10/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_11_10/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_11_10/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_11_10/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_11_10/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_11_10/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_11_10/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_11_10/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_11_10/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_11_10/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_11_10/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_11_10/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_11_10/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_11_10/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_11_10/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -396,7 +396,7 @@
 <!-- **** @PanoName="05.04.2024-12" @PanoFile="D:/Загрузки/05.04.2024-12.jpg" **** -->
 <scene name="pano11"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_12_11/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_12_11/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano11_title"
@@ -420,32 +420,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_12_11/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_12_11/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_12_11/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_12_11/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_12_11/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_12_11/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_12_11/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_12_11/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_12_11/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_12_11/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_12_11/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_12_11/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_12_11/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_12_11/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_12_11/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_12_11/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_12_11/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_12_11/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_12_11/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_12_11/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_12_11/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_12_11/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_12_11/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_12_11/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_12_11/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_12_11/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_12_11/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_12_11/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_12_11/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_12_11/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_12_11/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_12_11/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_12_11/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_12_11/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_12_11/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_12_11/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_12_11/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_12_11/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -505,7 +505,7 @@
 <!-- **** @PanoName="05.04.2024-13" @PanoFile="D:/Загрузки/05.04.2024-13.jpg" **** -->
 <scene name="pano12"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_13_12/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_13_12/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano12_title"
@@ -529,32 +529,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_13_12/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_13_12/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_13_12/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_13_12/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_13_12/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_13_12/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_13_12/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_13_12/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_13_12/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_13_12/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_13_12/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_13_12/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_13_12/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_13_12/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_13_12/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_13_12/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_13_12/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_13_12/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_13_12/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_13_12/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_13_12/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_13_12/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_13_12/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_13_12/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_13_12/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_13_12/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_13_12/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_13_12/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_13_12/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_13_12/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_13_12/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_13_12/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_13_12/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_13_12/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_13_12/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_13_12/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_13_12/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_13_12/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -636,7 +636,7 @@
 <!-- **** @PanoName="05.04.2024-14" @PanoFile="D:/Загрузки/05.04.2024-14.jpg" **** -->
 <scene name="pano13"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_14_13/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_14_13/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano13_title"
@@ -660,32 +660,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_14_13/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_14_13/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_14_13/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_14_13/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_14_13/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_14_13/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_14_13/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_14_13/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_14_13/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_14_13/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_14_13/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_14_13/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_14_13/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_14_13/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_14_13/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_14_13/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_14_13/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_14_13/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_14_13/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_14_13/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_14_13/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_14_13/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_14_13/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_14_13/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_14_13/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_14_13/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_14_13/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_14_13/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_14_13/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_14_13/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_14_13/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_14_13/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_14_13/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_14_13/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_14_13/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_14_13/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_14_13/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_14_13/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -767,7 +767,7 @@
 <!-- **** @PanoName="05.04.2024-15" @PanoFile="D:/Загрузки/05.04.2024-15.jpg" **** -->
 <scene name="pano14"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_15_14/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_15_14/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano14_title"
@@ -791,32 +791,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_15_14/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_15_14/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_15_14/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_15_14/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_15_14/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_15_14/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_15_14/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_15_14/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_15_14/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_15_14/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_15_14/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_15_14/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_15_14/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_15_14/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_15_14/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_15_14/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_15_14/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_15_14/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_15_14/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_15_14/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_15_14/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_15_14/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_15_14/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_15_14/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_15_14/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_15_14/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_15_14/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_15_14/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_15_14/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_15_14/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_15_14/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_15_14/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_15_14/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_15_14/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_15_14/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_15_14/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_15_14/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_15_14/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -876,7 +876,7 @@
 <!-- **** @PanoName="05.04.2024-16" @PanoFile="D:/Загрузки/05.04.2024-16.jpg" **** -->
 <scene name="pano15"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_16_15/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_16_15/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano15_title"
@@ -900,32 +900,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_16_15/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_16_15/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_16_15/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_16_15/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_16_15/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_16_15/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_16_15/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_16_15/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_16_15/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_16_15/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_16_15/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_16_15/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_16_15/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_16_15/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_16_15/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_16_15/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_16_15/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_16_15/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_16_15/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_16_15/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_16_15/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_16_15/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_16_15/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_16_15/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_16_15/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_16_15/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_16_15/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_16_15/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_16_15/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_16_15/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_16_15/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_16_15/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_16_15/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_16_15/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_16_15/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_16_15/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_16_15/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_16_15/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1051,7 +1051,7 @@
 <!-- **** @PanoName="05.04.2024-17" @PanoFile="D:/Загрузки/05.04.2024-17.jpg" **** -->
 <scene name="pano16"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_17_16/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_17_16/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano16_title"
@@ -1075,32 +1075,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_17_16/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_17_16/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_17_16/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_17_16/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_17_16/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_17_16/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_17_16/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_17_16/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_17_16/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_17_16/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_17_16/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_17_16/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_17_16/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_17_16/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_17_16/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_17_16/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_17_16/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_17_16/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_17_16/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_17_16/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_17_16/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_17_16/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_17_16/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_17_16/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_17_16/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_17_16/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_17_16/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_17_16/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_17_16/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_17_16/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_17_16/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_17_16/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_17_16/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_17_16/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_17_16/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_17_16/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_17_16/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_17_16/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1182,7 +1182,7 @@
 <!-- **** @PanoName="05.04.2024-18" @PanoFile="D:/Загрузки/05.04.2024-18.jpg" **** -->
 <scene name="pano17"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_18_17/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_18_17/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano17_title"
@@ -1206,32 +1206,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_18_17/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_18_17/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_18_17/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_18_17/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_18_17/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_18_17/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_18_17/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_18_17/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_18_17/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_18_17/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_18_17/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_18_17/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_18_17/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_18_17/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_18_17/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_18_17/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_18_17/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_18_17/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_18_17/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_18_17/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_18_17/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_18_17/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_18_17/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_18_17/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_18_17/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_18_17/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_18_17/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_18_17/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_18_17/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_18_17/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_18_17/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_18_17/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_18_17/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_18_17/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_18_17/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_18_17/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_18_17/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_18_17/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1335,7 +1335,7 @@
 <!-- **** @PanoName="05.04.2024-19" @PanoFile="D:/Загрузки/05.04.2024-19.jpg" **** -->
 <scene name="pano18"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_19_18/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_19_18/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano18_title"
@@ -1359,32 +1359,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_19_18/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_19_18/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_19_18/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_19_18/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_19_18/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_19_18/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_19_18/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_19_18/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_19_18/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_19_18/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_19_18/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_19_18/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_19_18/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_19_18/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_19_18/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_19_18/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_19_18/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_19_18/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_19_18/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_19_18/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_19_18/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_19_18/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_19_18/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_19_18/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_19_18/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_19_18/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_19_18/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_19_18/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_19_18/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_19_18/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_19_18/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_19_18/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_19_18/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_19_18/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_19_18/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_19_18/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_19_18/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_19_18/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1405,7 +1405,7 @@
 <!-- **** @PanoName="05.04.2024-20" @PanoFile="D:/Загрузки/05.04.2024-20.jpg" **** -->
 <scene name="pano19"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_20_19/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_20_19/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano19_title"
@@ -1429,32 +1429,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_20_19/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_20_19/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_20_19/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_20_19/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_20_19/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_20_19/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_20_19/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_20_19/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_20_19/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_20_19/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_20_19/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_20_19/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_20_19/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_20_19/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_20_19/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_20_19/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_20_19/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_20_19/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_20_19/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_20_19/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_20_19/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_20_19/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_20_19/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_20_19/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_20_19/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_20_19/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_20_19/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_20_19/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_20_19/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_20_19/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_20_19/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_20_19/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_20_19/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_20_19/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_20_19/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_20_19/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_20_19/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_20_19/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1475,7 +1475,7 @@
 <!-- **** @PanoName="05.04.2024-21" @PanoFile="D:/Загрузки/05.04.2024-21.jpg" **** -->
 <scene name="pano20"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_21_20/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_21_20/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano20_title"
@@ -1499,32 +1499,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_21_20/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_21_20/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_21_20/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_21_20/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_21_20/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_21_20/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_21_20/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_21_20/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_21_20/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_21_20/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_21_20/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_21_20/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_21_20/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_21_20/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_21_20/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_21_20/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_21_20/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_21_20/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_21_20/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_21_20/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_21_20/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_21_20/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_21_20/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_21_20/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_21_20/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_21_20/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_21_20/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_21_20/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_21_20/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_21_20/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_21_20/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_21_20/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_21_20/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_21_20/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_21_20/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_21_20/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_21_20/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_21_20/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1606,7 +1606,7 @@
 <!-- **** @PanoName="05.04.2024-22" @PanoFile="D:/Загрузки/05.04.2024-22.jpg" **** -->
 <scene name="pano21"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_22_21/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_22_21/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano21_title"
@@ -1630,32 +1630,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_22_21/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_22_21/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_22_21/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_22_21/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_22_21/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_22_21/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_22_21/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_22_21/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_22_21/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_22_21/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_22_21/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_22_21/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_22_21/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_22_21/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_22_21/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_22_21/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_22_21/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_22_21/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_22_21/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_22_21/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_22_21/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_22_21/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_22_21/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_22_21/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_22_21/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_22_21/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_22_21/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_22_21/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_22_21/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_22_21/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_22_21/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_22_21/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_22_21/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_22_21/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_22_21/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_22_21/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_22_21/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_22_21/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1715,7 +1715,7 @@
 <!-- **** @PanoName="05.04.2024-23" @PanoFile="D:/Загрузки/05.04.2024-23.jpg" **** -->
 <scene name="pano22"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_23_22/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_23_22/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano22_title"
@@ -1739,32 +1739,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_23_22/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_23_22/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_23_22/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_23_22/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_23_22/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_23_22/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_23_22/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_23_22/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_23_22/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_23_22/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_23_22/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_23_22/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_23_22/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_23_22/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_23_22/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_23_22/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_23_22/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_23_22/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_23_22/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_23_22/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_23_22/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_23_22/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_23_22/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_23_22/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_23_22/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_23_22/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_23_22/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_23_22/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_23_22/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_23_22/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_23_22/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_23_22/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_23_22/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_23_22/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_23_22/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_23_22/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_23_22/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_23_22/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1868,7 +1868,7 @@
 <!-- **** @PanoName="05.04.2024-24" @PanoFile="D:/Загрузки/05.04.2024-24.jpg" **** -->
 <scene name="pano23"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_24_23/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_24_23/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano23_title"
@@ -1892,32 +1892,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_24_23/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_24_23/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_24_23/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_24_23/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_24_23/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_24_23/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_24_23/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_24_23/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_24_23/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_24_23/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_24_23/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_24_23/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_24_23/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_24_23/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_24_23/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_24_23/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_24_23/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_24_23/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_24_23/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_24_23/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_24_23/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_24_23/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_24_23/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_24_23/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_24_23/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_24_23/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_24_23/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_24_23/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_24_23/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_24_23/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_24_23/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_24_23/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_24_23/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_24_23/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_24_23/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_24_23/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_24_23/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_24_23/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -1977,7 +1977,7 @@
 <!-- **** @PanoName="05.04.2024-25" @PanoFile="D:/Загрузки/05.04.2024-25.jpg" **** -->
 <scene name="pano24"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_25_24/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_25_24/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano24_title"
@@ -2001,32 +2001,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_25_24/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_25_24/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_25_24/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_25_24/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_25_24/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_25_24/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_25_24/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_25_24/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_25_24/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_25_24/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_25_24/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_25_24/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_25_24/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_25_24/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_25_24/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_25_24/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_25_24/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_25_24/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_25_24/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_25_24/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_25_24/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_25_24/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_25_24/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_25_24/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_25_24/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_25_24/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_25_24/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_25_24/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_25_24/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_25_24/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_25_24/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_25_24/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_25_24/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_25_24/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_25_24/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_25_24/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_25_24/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_25_24/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2108,7 +2108,7 @@
 <!-- **** @PanoName="05.04.2024-26" @PanoFile="D:/Загрузки/05.04.2024-26.jpg" **** -->
 <scene name="pano25"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_26_25/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_26_25/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano25_title"
@@ -2132,32 +2132,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_26_25/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_26_25/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_26_25/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_26_25/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_26_25/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_26_25/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_26_25/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_26_25/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_26_25/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_26_25/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_26_25/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_26_25/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_26_25/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_26_25/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_26_25/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_26_25/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_26_25/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_26_25/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_26_25/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_26_25/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_26_25/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_26_25/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_26_25/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_26_25/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_26_25/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_26_25/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_26_25/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_26_25/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_26_25/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_26_25/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_26_25/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_26_25/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_26_25/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_26_25/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_26_25/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_26_25/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_26_25/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_26_25/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2261,7 +2261,7 @@
 <!-- **** @PanoName="05.04.2024-27" @PanoFile="D:/Загрузки/05.04.2024-27.jpg" **** -->
 <scene name="pano26"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_27_26/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_27_26/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano26_title"
@@ -2285,32 +2285,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_27_26/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_27_26/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_27_26/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_27_26/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_27_26/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_27_26/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_27_26/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_27_26/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_27_26/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_27_26/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_27_26/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_27_26/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_27_26/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_27_26/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_27_26/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_27_26/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_27_26/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_27_26/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_27_26/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_27_26/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_27_26/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_27_26/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_27_26/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_27_26/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_27_26/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_27_26/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_27_26/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_27_26/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_27_26/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_27_26/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_27_26/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_27_26/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_27_26/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_27_26/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_27_26/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_27_26/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_27_26/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_27_26/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2370,7 +2370,7 @@
 <!-- **** @PanoName="05.04.2024-28" @PanoFile="D:/Загрузки/05.04.2024-28.jpg" **** -->
 <scene name="pano27"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_28_27/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_28_27/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano27_title"
@@ -2394,32 +2394,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_28_27/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_28_27/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_28_27/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_28_27/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_28_27/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_28_27/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_28_27/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_28_27/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_28_27/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_28_27/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_28_27/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_28_27/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_28_27/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_28_27/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_28_27/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_28_27/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_28_27/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_28_27/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_28_27/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_28_27/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_28_27/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_28_27/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_28_27/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_28_27/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_28_27/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_28_27/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_28_27/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_28_27/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_28_27/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_28_27/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_28_27/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_28_27/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_28_27/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_28_27/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_28_27/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_28_27/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_28_27/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_28_27/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2501,7 +2501,7 @@
 <!-- **** @PanoName="05.04.2024-29" @PanoFile="D:/Загрузки/05.04.2024-29.jpg" **** -->
 <scene name="pano28"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_29_28/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_29_28/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano28_title"
@@ -2525,32 +2525,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_29_28/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_29_28/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_29_28/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_29_28/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_29_28/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_29_28/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_29_28/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_29_28/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_29_28/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_29_28/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_29_28/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_29_28/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_29_28/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_29_28/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_29_28/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_29_28/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_29_28/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_29_28/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_29_28/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_29_28/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_29_28/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_29_28/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_29_28/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_29_28/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_29_28/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_29_28/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_29_28/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_29_28/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_29_28/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_29_28/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_29_28/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_29_28/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_29_28/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_29_28/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_29_28/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_29_28/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_29_28/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_29_28/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2676,7 +2676,7 @@
 <!-- **** @PanoName="05.04.2024-3" @PanoFile="D:/Загрузки/05.04.2024-3.jpg" **** -->
 <scene name="pano29"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_3_29/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_3_29/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano29_title"
@@ -2700,32 +2700,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_3_29/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_3_29/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_3_29/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_3_29/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_3_29/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_3_29/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_3_29/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_3_29/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_3_29/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_3_29/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_3_29/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_3_29/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_3_29/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_3_29/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_3_29/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_3_29/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_3_29/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_3_29/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_3_29/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_3_29/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_3_29/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_3_29/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_3_29/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_3_29/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_3_29/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_3_29/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_3_29/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_3_29/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_3_29/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_3_29/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_3_29/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_3_29/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_3_29/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_3_29/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_3_29/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_3_29/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_3_29/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_3_29/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2807,7 +2807,7 @@
 <!-- **** @PanoName="05.04.2024-30" @PanoFile="D:/Загрузки/05.04.2024-30.jpg" **** -->
 <scene name="pano30"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_30_30/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_30_30/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano30_title"
@@ -2831,32 +2831,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_30_30/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_30_30/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_30_30/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_30_30/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_30_30/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_30_30/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_30_30/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_30_30/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_30_30/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_30_30/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_30_30/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_30_30/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_30_30/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_30_30/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_30_30/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_30_30/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_30_30/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_30_30/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_30_30/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_30_30/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_30_30/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_30_30/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_30_30/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_30_30/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_30_30/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_30_30/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_30_30/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_30_30/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_30_30/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_30_30/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_30_30/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_30_30/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_30_30/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_30_30/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_30_30/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_30_30/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_30_30/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_30_30/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -2916,7 +2916,7 @@
 <!-- **** @PanoName="05.04.2024-31" @PanoFile="D:/Загрузки/05.04.2024-31.jpg" **** -->
 <scene name="pano31"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_31_31/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_31_31/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano31_title"
@@ -2940,32 +2940,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_31_31/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_31_31/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_31_31/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_31_31/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_31_31/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_31_31/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_31_31/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_31_31/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_31_31/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_31_31/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_31_31/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_31_31/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_31_31/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_31_31/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_31_31/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_31_31/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_31_31/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_31_31/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_31_31/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_31_31/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_31_31/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_31_31/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_31_31/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_31_31/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_31_31/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_31_31/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_31_31/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_31_31/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_31_31/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_31_31/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_31_31/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_31_31/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_31_31/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_31_31/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_31_31/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_31_31/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_31_31/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_31_31/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3091,7 +3091,7 @@
 <!-- **** @PanoName="05.04.2024-32" @PanoFile="D:/Загрузки/05.04.2024-32.jpg" **** -->
 <scene name="pano32"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_32_32/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_32_32/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano32_title"
@@ -3115,32 +3115,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_32_32/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_32_32/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_32_32/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_32_32/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_32_32/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_32_32/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_32_32/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_32_32/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_32_32/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_32_32/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_32_32/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_32_32/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_32_32/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_32_32/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_32_32/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_32_32/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_32_32/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_32_32/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_32_32/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_32_32/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_32_32/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_32_32/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_32_32/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_32_32/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_32_32/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_32_32/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_32_32/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_32_32/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_32_32/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_32_32/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_32_32/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_32_32/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_32_32/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_32_32/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_32_32/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_32_32/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_32_32/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_32_32/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3222,7 +3222,7 @@
 <!-- **** @PanoName="05.04.2024-33" @PanoFile="D:/Загрузки/05.04.2024-33.jpg" **** -->
 <scene name="pano33"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_33_33/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_33_33/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano33_title"
@@ -3246,32 +3246,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_33_33/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_33_33/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_33_33/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_33_33/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_33_33/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_33_33/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_33_33/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_33_33/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_33_33/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_33_33/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_33_33/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_33_33/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_33_33/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_33_33/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_33_33/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_33_33/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_33_33/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_33_33/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_33_33/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_33_33/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_33_33/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_33_33/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_33_33/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_33_33/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_33_33/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_33_33/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_33_33/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_33_33/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_33_33/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_33_33/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_33_33/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_33_33/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_33_33/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_33_33/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_33_33/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_33_33/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_33_33/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_33_33/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3375,7 +3375,7 @@
 <!-- **** @PanoName="05.04.2024-34" @PanoFile="D:/Загрузки/05.04.2024-34.jpg" **** -->
 <scene name="pano34"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_34_34/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_34_34/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano34_title"
@@ -3399,32 +3399,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_34_34/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_34_34/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_34_34/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_34_34/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_34_34/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_34_34/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_34_34/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_34_34/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_34_34/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_34_34/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_34_34/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_34_34/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_34_34/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_34_34/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_34_34/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_34_34/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_34_34/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_34_34/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_34_34/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_34_34/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_34_34/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_34_34/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_34_34/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_34_34/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_34_34/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_34_34/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_34_34/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_34_34/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_34_34/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_34_34/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_34_34/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_34_34/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_34_34/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_34_34/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_34_34/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_34_34/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_34_34/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_34_34/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3506,7 +3506,7 @@
 <!-- **** @PanoName="05.04.2024-35" @PanoFile="D:/Загрузки/05.04.2024-35.jpg" **** -->
 <scene name="pano35"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_35_35/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_35_35/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano35_title"
@@ -3530,32 +3530,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_35_35/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_35_35/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_35_35/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_35_35/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_35_35/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_35_35/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_35_35/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_35_35/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_35_35/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_35_35/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_35_35/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_35_35/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_35_35/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_35_35/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_35_35/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_35_35/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_35_35/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_35_35/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_35_35/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_35_35/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_35_35/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_35_35/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_35_35/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_35_35/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_35_35/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_35_35/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_35_35/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_35_35/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_35_35/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_35_35/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_35_35/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_35_35/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_35_35/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_35_35/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_35_35/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_35_35/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_35_35/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_35_35/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3637,7 +3637,7 @@
 <!-- **** @PanoName="05.04.2024-36" @PanoFile="D:/Загрузки/05.04.2024-36.jpg" **** -->
 <scene name="pano36"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_36_36/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_36_36/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano36_title"
@@ -3661,32 +3661,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_36_36/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_36_36/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_36_36/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_36_36/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_36_36/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_36_36/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_36_36/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_36_36/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_36_36/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_36_36/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_36_36/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_36_36/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_36_36/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_36_36/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_36_36/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_36_36/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_36_36/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_36_36/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_36_36/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_36_36/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_36_36/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_36_36/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_36_36/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_36_36/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_36_36/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_36_36/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_36_36/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_36_36/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_36_36/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_36_36/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_36_36/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_36_36/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_36_36/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_36_36/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_36_36/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_36_36/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_36_36/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_36_36/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3812,7 +3812,7 @@
 <!-- **** @PanoName="05.04.2024-37" @PanoFile="D:/Загрузки/05.04.2024-37.jpg" **** -->
 <scene name="pano37"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_37_37/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_37_37/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano37_title"
@@ -3836,32 +3836,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_37_37/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_37_37/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_37_37/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_37_37/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_37_37/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_37_37/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_37_37/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_37_37/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_37_37/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_37_37/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_37_37/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_37_37/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_37_37/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_37_37/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_37_37/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_37_37/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_37_37/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_37_37/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_37_37/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_37_37/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_37_37/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_37_37/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_37_37/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_37_37/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_37_37/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_37_37/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_37_37/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_37_37/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_37_37/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_37_37/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_37_37/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_37_37/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_37_37/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_37_37/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_37_37/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_37_37/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_37_37/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_37_37/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -3921,7 +3921,7 @@
 <!-- **** @PanoName="05.04.2024-38" @PanoFile="D:/Загрузки/05.04.2024-38.jpg" **** -->
 <scene name="pano38"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_38_38/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_38_38/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano38_title"
@@ -3945,32 +3945,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_38_38/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_38_38/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_38_38/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_38_38/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_38_38/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_38_38/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_38_38/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_38_38/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_38_38/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_38_38/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_38_38/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_38_38/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_38_38/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_38_38/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_38_38/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_38_38/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_38_38/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_38_38/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_38_38/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_38_38/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_38_38/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_38_38/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_38_38/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_38_38/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_38_38/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_38_38/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_38_38/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_38_38/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_38_38/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_38_38/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_38_38/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_38_38/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_38_38/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_38_38/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_38_38/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_38_38/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_38_38/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_38_38/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4074,7 +4074,7 @@
 <!-- **** @PanoName="05.04.2024-39" @PanoFile="D:/Загрузки/05.04.2024-39.jpg" **** -->
 <scene name="pano39"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_39_39/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_39_39/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano39_title"
@@ -4098,32 +4098,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_39_39/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_39_39/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_39_39/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_39_39/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_39_39/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_39_39/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_39_39/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_39_39/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_39_39/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_39_39/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_39_39/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_39_39/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_39_39/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_39_39/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_39_39/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_39_39/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_39_39/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_39_39/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_39_39/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_39_39/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_39_39/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_39_39/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_39_39/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_39_39/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_39_39/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_39_39/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_39_39/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_39_39/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_39_39/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_39_39/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_39_39/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_39_39/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_39_39/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_39_39/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_39_39/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_39_39/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_39_39/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_39_39/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4227,7 +4227,7 @@
 <!-- **** @PanoName="05.04.2024-4" @PanoFile="D:/Загрузки/05.04.2024-4.jpg" **** -->
 <scene name="pano40"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_4_40/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_4_40/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano40_title"
@@ -4251,32 +4251,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_4_40/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_4_40/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_4_40/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_4_40/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_4_40/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_4_40/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_4_40/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_4_40/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_4_40/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_4_40/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_4_40/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_4_40/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_4_40/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_4_40/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_4_40/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_4_40/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_4_40/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_4_40/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_4_40/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_4_40/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_4_40/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_4_40/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_4_40/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_4_40/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_4_40/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_4_40/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_4_40/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_4_40/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_4_40/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_4_40/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_4_40/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_4_40/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_4_40/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_4_40/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_4_40/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_4_40/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_4_40/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_4_40/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4358,7 +4358,7 @@
 <!-- **** @PanoName="05.04.2024-40" @PanoFile="D:/Загрузки/05.04.2024-40.jpg" **** -->
 <scene name="pano41"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_40_41/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_40_41/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano41_title"
@@ -4382,32 +4382,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_40_41/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_40_41/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_40_41/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_40_41/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_40_41/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_40_41/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_40_41/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_40_41/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_40_41/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_40_41/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_40_41/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_40_41/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_40_41/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_40_41/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_40_41/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_40_41/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_40_41/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_40_41/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_40_41/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_40_41/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_40_41/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_40_41/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_40_41/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_40_41/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_40_41/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_40_41/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_40_41/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_40_41/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_40_41/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_40_41/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_40_41/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_40_41/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_40_41/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_40_41/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_40_41/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_40_41/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_40_41/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_40_41/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4428,7 +4428,7 @@
 <!-- **** @PanoName="05.04.2024-41" @PanoFile="D:/Загрузки/05.04.2024-41.jpg" **** -->
 <scene name="pano42"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_41_42/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_41_42/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano42_title"
@@ -4452,32 +4452,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_41_42/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_41_42/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_41_42/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_41_42/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_41_42/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_41_42/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_41_42/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_41_42/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_41_42/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_41_42/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_41_42/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_41_42/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_41_42/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_41_42/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_41_42/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_41_42/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_41_42/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_41_42/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_41_42/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_41_42/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_41_42/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_41_42/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_41_42/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_41_42/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_41_42/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_41_42/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_41_42/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_41_42/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_41_42/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_41_42/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_41_42/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_41_42/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_41_42/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_41_42/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_41_42/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_41_42/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_41_42/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_41_42/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4498,7 +4498,7 @@
 <!-- **** @PanoName="05.04.2024-42" @PanoFile="D:/Загрузки/05.04.2024-42.jpg" **** -->
 <scene name="pano43"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_42_43/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_42_43/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano43_title"
@@ -4522,32 +4522,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_42_43/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_42_43/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_42_43/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_42_43/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_42_43/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_42_43/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_42_43/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_42_43/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_42_43/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_42_43/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_42_43/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_42_43/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_42_43/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_42_43/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_42_43/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_42_43/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_42_43/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_42_43/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_42_43/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_42_43/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_42_43/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_42_43/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_42_43/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_42_43/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_42_43/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_42_43/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_42_43/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_42_43/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_42_43/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_42_43/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_42_43/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_42_43/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_42_43/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_42_43/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_42_43/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_42_43/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_42_43/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_42_43/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4629,7 +4629,7 @@
 <!-- **** @PanoName="05.04.2024-43" @PanoFile="D:/Загрузки/05.04.2024-43.jpg" **** -->
 <scene name="pano44"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_43_44/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_43_44/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano44_title"
@@ -4653,32 +4653,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_43_44/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_43_44/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_43_44/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_43_44/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_43_44/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_43_44/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_43_44/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_43_44/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_43_44/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_43_44/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_43_44/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_43_44/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_43_44/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_43_44/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_43_44/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_43_44/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_43_44/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_43_44/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_43_44/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_43_44/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_43_44/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_43_44/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_43_44/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_43_44/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_43_44/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_43_44/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_43_44/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_43_44/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_43_44/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_43_44/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_43_44/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_43_44/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_43_44/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_43_44/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_43_44/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_43_44/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_43_44/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_43_44/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4804,7 +4804,7 @@
 <!-- **** @PanoName="05.04.2024-45" @PanoFile="D:/Загрузки/05.04.2024-45.jpg" **** -->
 <scene name="pano46"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_45_46/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_45_46/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano46_title"
@@ -4828,32 +4828,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_45_46/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_45_46/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_45_46/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_45_46/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_45_46/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_45_46/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_45_46/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_45_46/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_45_46/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_45_46/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_45_46/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_45_46/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_45_46/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_45_46/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_45_46/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_45_46/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_45_46/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_45_46/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_45_46/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_45_46/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_45_46/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_45_46/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_45_46/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_45_46/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_45_46/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_45_46/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_45_46/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_45_46/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_45_46/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_45_46/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_45_46/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_45_46/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_45_46/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_45_46/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_45_46/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_45_46/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_45_46/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_45_46/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -4935,7 +4935,7 @@
 <!-- **** @PanoName="05.04.2024-46" @PanoFile="D:/Загрузки/05.04.2024-46.jpg" **** -->
 <scene name="pano47"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_46_47/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_46_47/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano47_title"
@@ -4959,32 +4959,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_46_47/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_46_47/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_46_47/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_46_47/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_46_47/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_46_47/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_46_47/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_46_47/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_46_47/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_46_47/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_46_47/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_46_47/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_46_47/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_46_47/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_46_47/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_46_47/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_46_47/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_46_47/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_46_47/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_46_47/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_46_47/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_46_47/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_46_47/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_46_47/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_46_47/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_46_47/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_46_47/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_46_47/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_46_47/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_46_47/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_46_47/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_46_47/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_46_47/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_46_47/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_46_47/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_46_47/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_46_47/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_46_47/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5044,7 +5044,7 @@
 <!-- **** @PanoName="05.04.2024-47" @PanoFile="D:/Загрузки/05.04.2024-47.jpg" **** -->
 <scene name="pano48"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_47_48/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_47_48/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano48_title"
@@ -5068,32 +5068,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_47_48/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_47_48/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_47_48/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_47_48/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_47_48/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_47_48/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_47_48/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_47_48/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_47_48/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_47_48/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_47_48/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_47_48/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_47_48/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_47_48/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_47_48/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_47_48/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_47_48/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_47_48/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_47_48/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_47_48/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_47_48/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_47_48/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_47_48/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_47_48/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_47_48/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_47_48/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_47_48/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_47_48/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_47_48/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_47_48/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_47_48/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_47_48/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_47_48/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_47_48/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_47_48/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_47_48/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_47_48/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_47_48/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5114,7 +5114,7 @@
 <!-- **** @PanoName="05.04.2024-48" @PanoFile="D:/Загрузки/05.04.2024-48.jpg" **** -->
 <scene name="pano49"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_48_49/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_48_49/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano49_title"
@@ -5138,32 +5138,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_48_49/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_48_49/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_48_49/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_48_49/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_48_49/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_48_49/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_48_49/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_48_49/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_48_49/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_48_49/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_48_49/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_48_49/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_48_49/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_48_49/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_48_49/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_48_49/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_48_49/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_48_49/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_48_49/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_48_49/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_48_49/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_48_49/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_48_49/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_48_49/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_48_49/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_48_49/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_48_49/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_48_49/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_48_49/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_48_49/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_48_49/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_48_49/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_48_49/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_48_49/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_48_49/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_48_49/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_48_49/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_48_49/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5223,7 +5223,7 @@
 <!-- **** @PanoName="05.04.2024-5" @PanoFile="D:/Загрузки/05.04.2024-5.jpg" **** -->
 <scene name="pano50"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_5_50/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_5_50/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano50_title"
@@ -5247,32 +5247,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_5_50/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_5_50/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_5_50/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_5_50/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_5_50/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_5_50/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_5_50/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_5_50/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_5_50/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_5_50/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_5_50/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_5_50/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_5_50/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_5_50/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_5_50/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_5_50/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_5_50/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_5_50/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_5_50/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_5_50/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_5_50/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_5_50/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_5_50/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_5_50/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_5_50/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_5_50/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_5_50/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_5_50/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_5_50/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_5_50/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_5_50/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_5_50/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_5_50/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_5_50/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_5_50/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_5_50/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_5_50/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_5_50/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5376,7 +5376,7 @@
 <!-- **** @PanoName="05.04.2024-6" @PanoFile="D:/Загрузки/05.04.2024-6.jpg" **** -->
 <scene name="pano51"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_6_51/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_6_51/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano51_title"
@@ -5400,32 +5400,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_6_51/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_6_51/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_6_51/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_6_51/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_6_51/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_6_51/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_6_51/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_6_51/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_6_51/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_6_51/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_6_51/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_6_51/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_6_51/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_6_51/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_6_51/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_6_51/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_6_51/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_6_51/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_6_51/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_6_51/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_6_51/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_6_51/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_6_51/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_6_51/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_6_51/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_6_51/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_6_51/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_6_51/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_6_51/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_6_51/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_6_51/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_6_51/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_6_51/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_6_51/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_6_51/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_6_51/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_6_51/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_6_51/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5507,7 +5507,7 @@
 <!-- **** @PanoName="05.04.2024-7" @PanoFile="D:/Загрузки/05.04.2024-7.jpg" **** -->
 <scene name="pano52"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_7_52/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_7_52/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano52_title"
@@ -5531,32 +5531,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_7_52/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_7_52/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_7_52/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_7_52/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_7_52/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_7_52/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_7_52/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_7_52/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_7_52/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_7_52/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_7_52/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_7_52/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_7_52/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_7_52/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_7_52/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_7_52/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_7_52/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_7_52/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_7_52/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_7_52/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_7_52/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_7_52/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_7_52/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_7_52/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_7_52/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_7_52/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_7_52/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_7_52/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_7_52/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_7_52/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_7_52/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_7_52/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_7_52/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_7_52/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_7_52/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_7_52/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_7_52/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_7_52/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
@@ -5638,7 +5638,7 @@
 <!-- **** @PanoName="05.04.2024-9" @PanoFile="D:/Загрузки/05.04.2024-9.jpg" **** -->
 <scene name="pano54"
        heading="0"
-       thumburl="%FIRSTXML%/_05_04_2024_9_54/thumbnail.jpg"
+       thumburl="%FIRSTXML%/05_04_2024_9_54/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano54_title"
@@ -5662,32 +5662,32 @@
           hlookat="0.000000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_05_04_2024_9_54/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/05_04_2024_9_54/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_9_54/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_9_54/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_9_54/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_9_54/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_9_54/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_9_54/5/2/%v_%u.jpg"/>
+        <front url="05_04_2024_9_54/0/2/%v_%u.jpg"/>
+        <right url="05_04_2024_9_54/1/2/%v_%u.jpg"/>
+        <back  url="05_04_2024_9_54/2/2/%v_%u.jpg"/>
+        <left  url="05_04_2024_9_54/3/2/%v_%u.jpg"/>
+        <up    url="05_04_2024_9_54/4/2/%v_%u.jpg"/>
+        <down  url="05_04_2024_9_54/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_9_54/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_9_54/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_9_54/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_9_54/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_9_54/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_9_54/5/1/%v_%u.jpg"/>
+        <front url="05_04_2024_9_54/0/1/%v_%u.jpg"/>
+        <right url="05_04_2024_9_54/1/1/%v_%u.jpg"/>
+        <back  url="05_04_2024_9_54/2/1/%v_%u.jpg"/>
+        <left  url="05_04_2024_9_54/3/1/%v_%u.jpg"/>
+        <up    url="05_04_2024_9_54/4/1/%v_%u.jpg"/>
+        <down  url="05_04_2024_9_54/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
-        <front url="_05_04_2024_9_54/0/0/%v_%u.jpg"/>
-        <right url="_05_04_2024_9_54/1/0/%v_%u.jpg"/>
-        <back  url="_05_04_2024_9_54/2/0/%v_%u.jpg"/>
-        <left  url="_05_04_2024_9_54/3/0/%v_%u.jpg"/>
-        <up    url="_05_04_2024_9_54/4/0/%v_%u.jpg"/>
-        <down  url="_05_04_2024_9_54/5/0/%v_%u.jpg"/>
+        <front url="05_04_2024_9_54/0/0/%v_%u.jpg"/>
+        <right url="05_04_2024_9_54/1/0/%v_%u.jpg"/>
+        <back  url="05_04_2024_9_54/2/0/%v_%u.jpg"/>
+        <left  url="05_04_2024_9_54/3/0/%v_%u.jpg"/>
+        <up    url="05_04_2024_9_54/4/0/%v_%u.jpg"/>
+        <down  url="05_04_2024_9_54/5/0/%v_%u.jpg"/>
       </level>
     </image>
 
