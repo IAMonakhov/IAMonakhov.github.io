@@ -70,6 +70,21 @@
 
 
 		<script type="text/javascript">
+			function webglAvailable() {
+				try {
+					var canvas = document.createElement("canvas");
+					return !!window.WebGLRenderingContext && (canvas.getContext("webgl") || canvas.getContext("experimental-webgl"));
+				} catch(e) {
+					return false;
+				}
+			}
+			function getWmodeValue() {
+				var webglTest = webglAvailable();
+				if(webglTest){
+					return 'direct';
+				}
+				return 'opaque';
+			}
 			function readDeviceOrientation() {
 				// window.innerHeight is not supported by IE
 				var winH = window.innerHeight ? window.innerHeight : jQuery(window).height();
@@ -85,6 +100,9 @@
 			}
 			jQuery( document ).ready(function() {
 				if (/(iphone|ipod|ipad|android|iemobile|webos|fennec|blackberry|kindle|series60|playbook|opera\smini|opera\smobi|opera\stablet|symbianos|palmsource|palmos|blazer|windows\sce|windows\sphone|wp7|bolt|doris|dorothy|gobrowser|iris|maemo|minimo|netfront|semc-browser|skyfire|teashark|teleca|uzardweb|avantgo|docomo|kddi|ddipocket|polaris|eudoraweb|opwv|plink|plucker|pie|xiino|benq|playbook|bb|cricket|dell|bb10|nintendo|up.browser|playstation|tear|mib|obigo|midp|mobile|tablet)/.test(navigator.userAgent.toLowerCase())) {
+					if(/iphone/.test(navigator.userAgent.toLowerCase()) && window.self === window.top){
+						jQuery('body').css('height', '100.18%'); 
+					}
 					// add event listener on resize event (for orientation change)
 					if (window.addEventListener) {
 						window.addEventListener("load", readDeviceOrientation);
