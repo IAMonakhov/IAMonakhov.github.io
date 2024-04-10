@@ -68,20 +68,20 @@
 
     <image type="CUBE" multires="true" baseindex="0" tilesize="512">
       <level tiledimagewidth="2608" tiledimageheight="2608">
-        <front url="_05_04_2024_44_45/0/2/%v_%u.jpg"/>
-        <right url="_05_04_2024_44_45/1/2/%v_%u.jpg"/>
-        <back  url="_05_04_2024_44_45/2/2/%v_%u.jpg"/>
-        <left  url="_05_04_2024_44_45/3/2/%v_%u.jpg"/>
-        <up    url="_05_04_2024_44_45/4/2/%v_%u.jpg"/>
-        <down  url="_05_04_2024_44_45/5/2/%v_%u.jpg"/>
+        <front url="vsedata/_05_04_2024_44_45/0/2/%v_%u.jpg"/>
+        <right url="vsedata/_05_04_2024_44_45/1/2/%v_%u.jpg"/>
+        <back  url="vsedata/_05_04_2024_44_45/2/2/%v_%u.jpg"/>
+        <left  url="vsedata/_05_04_2024_44_45/3/2/%v_%u.jpg"/>
+        <up    url="vsedata/_05_04_2024_44_45/4/2/%v_%u.jpg"/>
+        <down  url="vsedata/_05_04_2024_44_45/5/2/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="1304" tiledimageheight="1304">
-        <front url="_05_04_2024_44_45/0/1/%v_%u.jpg"/>
-        <right url="_05_04_2024_44_45/1/1/%v_%u.jpg"/>
-        <back  url="_05_04_2024_44_45/2/1/%v_%u.jpg"/>
-        <left  url="_05_04_2024_44_45/3/1/%v_%u.jpg"/>
-        <up    url="_05_04_2024_44_45/4/1/%v_%u.jpg"/>
-        <down  url="_05_04_2024_44_45/5/1/%v_%u.jpg"/>
+        <front url="vsedata/_05_04_2024_44_45/0/1/%v_%u.jpg"/>
+        <right url="vsedata/_05_04_2024_44_45/1/1/%v_%u.jpg"/>
+        <back  url="vsedata/_05_04_2024_44_45/2/1/%v_%u.jpg"/>
+        <left  url="vsedata/_05_04_2024_44_45/3/1/%v_%u.jpg"/>
+        <up    url="vsedata/_05_04_2024_44_45/4/1/%v_%u.jpg"/>
+        <down  url="vsedata/_05_04_2024_44_45/5/1/%v_%u.jpg"/>
       </level>
       <level tiledimagewidth="652" tiledimageheight="652">
         <front url="_05_04_2024_44_45/0/0/%v_%u.jpg"/>
@@ -108,8 +108,10 @@
   <hotspot name="spotpoint117" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint117" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint117">
-        mainloadscene(pano44);
-      lookat(152.550000, -13.950000, 90.000000);
+        mainloadscene(pano44);
+
+      lookat(152.550000, -13.950000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -215,8 +217,10 @@
   <hotspot name="spotpoint180" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint180" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint180">
-        mainloadscene(pano54);
-      lookat(-102.600000, 4.500000, 90.000000);
+        mainloadscene(pano54);
+
+      lookat(-102.600000, 4.500000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint182"
@@ -231,8 +235,10 @@
   <hotspot name="spotpoint182" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint182" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint182">
-        mainloadscene(pano35);
-      lookat(80.100000, 6.750000, 90.000000);
+        mainloadscene(pano35);
+
+      lookat(80.100000, 6.750000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -342,8 +348,10 @@
   <hotspot name="spotpoint193" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint193" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint193">
-        mainloadscene(pano12);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano12);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <action name="hidepanopointspots">
@@ -449,8 +457,10 @@
   <hotspot name="spotpoint188" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint188" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint188">
-        mainloadscene(pano13);
-      lookat(-108.000000, 15.300000, 90.000000);
+        mainloadscene(pano13);
+
+      lookat(-108.000000, 15.300000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -556,8 +566,10 @@
   <hotspot name="spotpoint192" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint192" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint192">
-        mainloadscene(pano10);
-      lookat(-54.000000, 0.000000, 90.000000);
+        mainloadscene(pano10);
+
+      lookat(-54.000000, 0.000000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint194"
@@ -572,8 +584,10 @@
   <hotspot name="spotpoint194" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint194" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint194">
-        mainloadscene(pano34);
-      lookat(-174.407048, 4.204007, 74.380165);
+        mainloadscene(pano34);
+
+      lookat(-174.407048, 4.204007, 74.380165);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -683,8 +697,10 @@
   <hotspot name="spotpoint186" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint186" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint186">
-        mainloadscene(pano33);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano33);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint187"
@@ -699,8 +715,10 @@
   <hotspot name="spotpoint187" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint187" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint187">
-        mainloadscene(pano11);
-      lookat(172.350000, 2.700000, 90.000000);
+        mainloadscene(pano11);
+
+      lookat(172.350000, 2.700000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -810,8 +828,10 @@
   <hotspot name="spotpoint134" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint134" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint134">
-        mainloadscene(pano15);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano15);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <action name="hidepanopointspots">
@@ -917,8 +937,10 @@
   <hotspot name="spotpoint130" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint130" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint130">
-        mainloadscene(pano43);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano43);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint131"
@@ -933,8 +955,10 @@
   <hotspot name="spotpoint131" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint131" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint131">
-        mainloadscene(pano36);
-      lookat(-145.350000, 10.350000, 90.000000);
+        mainloadscene(pano36);
+
+      lookat(-145.350000, 10.350000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint133"
@@ -949,8 +973,10 @@
   <hotspot name="spotpoint133" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint133" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint133">
-        mainloadscene(pano14);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano14);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint135"
@@ -965,8 +991,10 @@
   <hotspot name="spotpoint135" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint135" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint135">
-        mainloadscene(pano16);
-      lookat(96.850730, 2.254933, 31.544451);
+        mainloadscene(pano16);
+
+      lookat(96.850730, 2.254933, 31.544451);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1084,8 +1112,10 @@
   <hotspot name="spotpoint136" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint136" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint136">
-        mainloadscene(pano15);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano15);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint137"
@@ -1100,8 +1130,10 @@
   <hotspot name="spotpoint137" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint137" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint137">
-        mainloadscene(pano17);
-      lookat(-174.150000, 13.050000, 90.000000);
+        mainloadscene(pano17);
+
+      lookat(-174.150000, 13.050000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1211,8 +1243,10 @@
   <hotspot name="spotpoint138" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint138" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint138">
-        mainloadscene(pano16);
-      lookat(-82.800000, 5.400000, 90.000000);
+        mainloadscene(pano16);
+
+      lookat(-82.800000, 5.400000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint141"
@@ -1227,8 +1261,10 @@
   <hotspot name="spotpoint141" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint141" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint141">
-        mainloadscene(pano52);
-      lookat(117.450000, 6.300000, 90.000000);
+        mainloadscene(pano52);
+
+      lookat(117.450000, 6.300000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint142"
@@ -1243,8 +1279,10 @@
   <hotspot name="spotpoint142" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint142" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint142">
-        mainloadscene(pano28);
-      lookat(53.100000, 7.650000, 90.000000);
+        mainloadscene(pano28);
+
+      lookat(53.100000, 7.650000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1498,8 +1536,10 @@
   <hotspot name="spotpoint161" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint161" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint161">
-        mainloadscene(pano22);
-      lookat(-168.750000, 9.900000, 90.000000);
+        mainloadscene(pano22);
+
+      lookat(-168.750000, 9.900000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint163"
@@ -1514,8 +1554,10 @@
   <hotspot name="spotpoint163" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint163" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint163">
-        mainloadscene(pano46);
-      lookat(146.700000, 2.700000, 90.000000);
+        mainloadscene(pano46);
+
+      lookat(146.700000, 2.700000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1625,8 +1667,10 @@
   <hotspot name="spotpoint167" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint167" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint167">
-        mainloadscene(pano39);
-      lookat(-106.650000, 7.200000, 90.000000);
+        mainloadscene(pano39);
+
+      lookat(-106.650000, 7.200000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1732,8 +1776,10 @@
   <hotspot name="spotpoint159" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint159" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint159">
-        mainloadscene(pano25);
-      lookat(155.250000, 5.400000, 90.000000);
+        mainloadscene(pano25);
+
+      lookat(155.250000, 5.400000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint160"
@@ -1748,8 +1794,10 @@
   <hotspot name="spotpoint160" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint160" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint160">
-        mainloadscene(pano20);
-      lookat(-87.750000, 15.750000, 90.000000);
+        mainloadscene(pano20);
+
+      lookat(-87.750000, 15.750000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint162"
@@ -1764,8 +1812,10 @@
   <hotspot name="spotpoint162" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint162" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint162">
-        mainloadscene(pano21);
-      lookat(51.300000, 1.350000, 90.000000);
+        mainloadscene(pano21);
+
+      lookat(51.300000, 1.350000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1879,8 +1929,10 @@
   <hotspot name="spotpoint157" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint157" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint157">
-        mainloadscene(pano24);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano24);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <action name="hidepanopointspots">
@@ -1986,8 +2038,10 @@
   <hotspot name="spotpoint155" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint155" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint155">
-        mainloadscene(pano25);
-      lookat(-63.900000, 13.950000, 90.000000);
+        mainloadscene(pano25);
+
+      lookat(-63.900000, 13.950000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint156"
@@ -2002,8 +2056,10 @@
   <hotspot name="spotpoint156" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint156" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint156">
-        mainloadscene(pano23);
-      lookat(53.550000, 12.150000, 90.000000);
+        mainloadscene(pano23);
+
+      lookat(53.550000, 12.150000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2113,8 +2169,10 @@
   <hotspot name="spotpoint153" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint153" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint153">
-        mainloadscene(pano28);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano28);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint154"
@@ -2129,8 +2187,10 @@
   <hotspot name="spotpoint154" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint154" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint154">
-        mainloadscene(pano24);
-      lookat(-45.000000, 4.500000, 90.000000);
+        mainloadscene(pano24);
+
+      lookat(-45.000000, 4.500000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint158"
@@ -2145,8 +2205,10 @@
   <hotspot name="spotpoint158" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint158" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint158">
-        mainloadscene(pano22);
-      lookat(-14.400000, 5.400000, 90.000000);
+        mainloadscene(pano22);
+
+      lookat(-14.400000, 5.400000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2260,8 +2322,10 @@
   <hotspot name="spotpoint150" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint150" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint150">
-        mainloadscene(pano27);
-      lookat(-106.200000, 9.450000, 90.000000);
+        mainloadscene(pano27);
+
+      lookat(-106.200000, 9.450000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2367,8 +2431,10 @@
   <hotspot name="spotpoint149" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint149" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint149">
-        mainloadscene(pano26);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano26);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint151"
@@ -2383,8 +2449,10 @@
   <hotspot name="spotpoint151" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint151" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint151">
-        mainloadscene(pano28);
-      lookat(-20.700000, 4.050000, 90.000000);
+        mainloadscene(pano28);
+
+      lookat(-20.700000, 4.050000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2494,8 +2562,10 @@
   <hotspot name="spotpoint145" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint145" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint145">
-        mainloadscene(pano17);
-      lookat(107.550000, 7.200000, 90.000000);
+        mainloadscene(pano17);
+
+      lookat(107.550000, 7.200000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint146"
@@ -2510,8 +2580,10 @@
   <hotspot name="spotpoint146" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint146" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint146">
-        mainloadscene(pano30);
-      lookat(106.650000, 6.750000, 90.000000);
+        mainloadscene(pano30);
+
+      lookat(106.650000, 6.750000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint148"
@@ -2526,8 +2598,10 @@
   <hotspot name="spotpoint148" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint148" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint148">
-        mainloadscene(pano27);
-      lookat(-45.900000, 9.450000, 90.000000);
+        mainloadscene(pano27);
+
+      lookat(-45.900000, 9.450000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint152"
@@ -2542,8 +2616,10 @@
   <hotspot name="spotpoint152" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint152" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint152">
-        mainloadscene(pano25);
-      lookat(-71.100000, 15.750000, 90.000000);
+        mainloadscene(pano25);
+
+      lookat(-71.100000, 15.750000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2661,8 +2737,10 @@
   <hotspot name="spotpoint124" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint124" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint124">
-        mainloadscene(pano43);
-      lookat(-168.750000, 4.950000, 90.000000);
+        mainloadscene(pano43);
+
+      lookat(-168.750000, 4.950000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint125"
@@ -2677,8 +2755,10 @@
   <hotspot name="spotpoint125" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint125" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint125">
-        mainloadscene(pano50);
-      lookat(-123.750000, 9.000000, 90.000000);
+        mainloadscene(pano50);
+
+      lookat(-123.750000, 9.000000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2788,8 +2868,10 @@
   <hotspot name="spotpoint147" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint147" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint147">
-        mainloadscene(pano31);
-      lookat(71.550000, 14.400000, 90.000000);
+        mainloadscene(pano31);
+
+      lookat(71.550000, 14.400000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -2895,8 +2977,10 @@
   <hotspot name="spotpoint198" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint198" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint198">
-        mainloadscene(pano32);
-      lookat(15.750000, 5.850000, 90.000000);
+        mainloadscene(pano32);
+
+      lookat(15.750000, 5.850000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint199"
@@ -2911,8 +2995,10 @@
   <hotspot name="spotpoint199" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint199" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint199">
-        mainloadscene(pano30);
-      lookat(-108.000000, 4.950000, 90.000000);
+        mainloadscene(pano30);
+
+      lookat(-108.000000, 4.950000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint200"
@@ -2927,8 +3013,10 @@
   <hotspot name="spotpoint200" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint200" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint200">
-        mainloadscene(pano39);
-      lookat(-101.700000, 0.000000, 90.000000);
+        mainloadscene(pano39);
+
+      lookat(-101.700000, 0.000000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint201"
@@ -2943,8 +3031,10 @@
   <hotspot name="spotpoint201" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint201" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint201">
-        mainloadscene(pano37);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano37);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3062,8 +3152,10 @@
   <hotspot name="spotpoint196" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint196" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint196">
-        mainloadscene(pano34);
-      lookat(6.300000, 13.950000, 90.000000);
+        mainloadscene(pano34);
+
+      lookat(6.300000, 13.950000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint197"
@@ -3078,8 +3170,10 @@
   <hotspot name="spotpoint197" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint197" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint197">
-        mainloadscene(pano31);
-      lookat(-20.250000, 5.850000, 90.000000);
+        mainloadscene(pano31);
+
+      lookat(-20.250000, 5.850000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3189,8 +3283,10 @@
   <hotspot name="spotpoint184" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint184" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint184">
-        mainloadscene(pano36);
-      lookat(124.650000, 10.350000, 90.000000);
+        mainloadscene(pano36);
+
+      lookat(124.650000, 10.350000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint185"
@@ -3205,8 +3301,10 @@
   <hotspot name="spotpoint185" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint185" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint185">
-        mainloadscene(pano13);
-      lookat(-36.900000, 10.800000, 90.000000);
+        mainloadscene(pano13);
+
+      lookat(-36.900000, 10.800000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint190"
@@ -3221,8 +3319,10 @@
   <hotspot name="spotpoint190" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint190" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint190">
-        mainloadscene(pano34);
-      lookat(177.799154, 7.888624, 50.802654);
+        mainloadscene(pano34);
+
+      lookat(177.799154, 7.888624, 50.802654);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3336,8 +3436,10 @@
   <hotspot name="spotpoint191" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint191" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint191">
-        mainloadscene(pano12);
-      lookat(60.300000, 8.550000, 90.000000);
+        mainloadscene(pano12);
+
+      lookat(60.300000, 8.550000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint195"
@@ -3352,8 +3454,10 @@
   <hotspot name="spotpoint195" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint195" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint195">
-        mainloadscene(pano32);
-      lookat(-151.650000, 2.700000, 90.000000);
+        mainloadscene(pano32);
+
+      lookat(-151.650000, 2.700000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3463,8 +3567,10 @@
   <hotspot name="spotpoint178" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint178" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint178">
-        mainloadscene(pano36);
-      lookat(-135.450000, 2.700000, 90.000000);
+        mainloadscene(pano36);
+
+      lookat(-135.450000, 2.700000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint179"
@@ -3479,8 +3585,10 @@
   <hotspot name="spotpoint179" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint179" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint179">
-        mainloadscene(pano9);
-      lookat(57.600000, 9.000000, 90.000000);
+        mainloadscene(pano9);
+
+      lookat(57.600000, 9.000000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3590,8 +3698,10 @@
   <hotspot name="spotpoint132" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint132" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint132">
-        mainloadscene(pano15);
-      lookat(-57.150000, 2.700000, 90.000000);
+        mainloadscene(pano15);
+
+      lookat(-57.150000, 2.700000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint176"
@@ -3606,8 +3716,10 @@
   <hotspot name="spotpoint176" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint176" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint176">
-        mainloadscene(pano39);
-      lookat(-105.750000, 7.200000, 90.000000);
+        mainloadscene(pano39);
+
+      lookat(-105.750000, 7.200000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint177"
@@ -3622,8 +3734,10 @@
   <hotspot name="spotpoint177" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint177" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint177">
-        mainloadscene(pano35);
-      lookat(-99.000000, 5.400000, 90.000000);
+        mainloadscene(pano35);
+
+      lookat(-99.000000, 5.400000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint183"
@@ -3638,8 +3752,10 @@
   <hotspot name="spotpoint183" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint183" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint183">
-        mainloadscene(pano33);
-      lookat(166.172141, 4.716683, 81.818182);
+        mainloadscene(pano33);
+
+      lookat(166.172141, 4.716683, 81.818182);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3757,8 +3873,10 @@
   <hotspot name="spotpoint170" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint170" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint170">
-        mainloadscene(pano39);
-      lookat(-94.500000, 7.650000, 90.000000);
+        mainloadscene(pano39);
+
+      lookat(-94.500000, 7.650000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -3864,8 +3982,10 @@
   <hotspot name="spotpoint172" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint172" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint172">
-        mainloadscene(pano39);
-      lookat(-104.850000, 4.500000, 90.000000);
+        mainloadscene(pano39);
+
+      lookat(-104.850000, 4.500000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint173"
@@ -3880,8 +4000,10 @@
   <hotspot name="spotpoint173" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint173" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint173">
-        mainloadscene(pano47);
-      lookat(145.800000, 12.600000, 90.000000);
+        mainloadscene(pano47);
+
+      lookat(145.800000, 12.600000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint174"
@@ -3896,8 +4018,10 @@
   <hotspot name="spotpoint174" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint174" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint174">
-        mainloadscene(pano21);
-      lookat(-80.550000, 3.600000, 90.000000);
+        mainloadscene(pano21);
+
+      lookat(-80.550000, 3.600000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4011,8 +4135,10 @@
   <hotspot name="spotpoint168" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint168" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint168">
-        mainloadscene(pano38);
-      lookat(147.600000, 5.400000, 90.000000);
+        mainloadscene(pano38);
+
+      lookat(147.600000, 5.400000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint169"
@@ -4027,8 +4153,10 @@
   <hotspot name="spotpoint169" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint169" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint169">
-        mainloadscene(pano37);
-      lookat(125.100000, 9.000000, 90.000000);
+        mainloadscene(pano37);
+
+      lookat(125.100000, 9.000000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint175"
@@ -4043,8 +4171,10 @@
   <hotspot name="spotpoint175" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint175" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint175">
-        mainloadscene(pano36);
-      lookat(-155.250000, 8.550000, 90.000000);
+        mainloadscene(pano36);
+
+      lookat(-155.250000, 8.550000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4158,8 +4288,10 @@
   <hotspot name="spotpoint119" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint119" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint119">
-        mainloadscene(pano44);
-      lookat(153.000000, -16.200000, 90.000000);
+        mainloadscene(pano44);
+
+      lookat(153.000000, -16.200000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint120"
@@ -4174,8 +4306,10 @@
   <hotspot name="spotpoint120" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint120" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint120">
-        mainloadscene(pano50);
-      lookat(-122.895000, 3.960000, 99.000000);
+        mainloadscene(pano50);
+
+      lookat(-122.895000, 3.960000, 99.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4425,8 +4559,10 @@
   <hotspot name="spotpoint126" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint126" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint126">
-        mainloadscene(pano29);
-      lookat(-135.450000, 6.300000, 90.000000);
+        mainloadscene(pano29);
+
+      lookat(-135.450000, 6.300000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint129"
@@ -4441,8 +4577,10 @@
   <hotspot name="spotpoint129" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint129" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint129">
-        mainloadscene(pano15);
-      lookat(-59.400000, 6.300000, 90.000000);
+        mainloadscene(pano15);
+
+      lookat(-59.400000, 6.300000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4552,8 +4690,10 @@
   <hotspot name="spotpoint115" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint115" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint115">
-        mainloadscene(pano45);
-      lookat(21.150000, -4.500000, 90.000000);
+        mainloadscene(pano45);
+
+      lookat(21.150000, -4.500000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint116"
@@ -4568,8 +4708,10 @@
   <hotspot name="spotpoint116" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint116" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint116">
-        mainloadscene(pano49);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano49);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint118"
@@ -4584,8 +4726,10 @@
   <hotspot name="spotpoint118" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint118" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint118">
-        mainloadscene(pano40);
-      lookat(-31.500000, 0.900000, 90.000000);
+        mainloadscene(pano40);
+
+      lookat(-31.500000, 0.900000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint202"
@@ -4600,8 +4744,10 @@
   <hotspot name="spotpoint202" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint202" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint202">
-        mainloadscene(pano9);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano9);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4719,8 +4865,10 @@
   <hotspot name="spotpoint164" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint164" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint164">
-        mainloadscene(pano20);
-      lookat(-75.600000, 15.300000, 90.000000);
+        mainloadscene(pano20);
+
+      lookat(-75.600000, 15.300000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint165"
@@ -4735,8 +4883,10 @@
   <hotspot name="spotpoint165" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint165" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint165">
-        mainloadscene(pano47);
-      lookat(146.250000, -0.900000, 90.000000);
+        mainloadscene(pano47);
+
+      lookat(146.250000, -0.900000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -4846,8 +4996,10 @@
   <hotspot name="spotpoint166" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint166" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint166">
-        mainloadscene(pano46);
-      lookat(-41.400000, 0.450000, 90.000000);
+        mainloadscene(pano46);
+
+      lookat(-41.400000, 0.450000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -5023,8 +5175,10 @@
   <hotspot name="spotpoint114" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint114" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint114">
-        mainloadscene(pano44);
-      lookat(151.650000, -11.250000, 90.000000);
+        mainloadscene(pano44);
+
+      lookat(151.650000, -11.250000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -5130,8 +5284,10 @@
   <hotspot name="spotpoint121" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint121" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint121">
-        mainloadscene(pano40);
-      lookat(148.950000, 9.450000, 90.000000);
+        mainloadscene(pano40);
+
+      lookat(148.950000, 9.450000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint122"
@@ -5146,8 +5302,10 @@
   <hotspot name="spotpoint122" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint122" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint122">
-        mainloadscene(pano51);
-      lookat(107.550000, 3.150000, 90.000000);
+        mainloadscene(pano51);
+
+      lookat(107.550000, 3.150000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint123"
@@ -5162,8 +5320,10 @@
   <hotspot name="spotpoint123" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint123" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint123">
-        mainloadscene(pano29);
-      lookat(37.107250, 0.557175, 67.618332);
+        mainloadscene(pano29);
+
+      lookat(37.107250, 0.557175, 67.618332);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -5277,8 +5437,10 @@
   <hotspot name="spotpoint203" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint203" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint203">
-        mainloadscene(pano50);
-      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+        mainloadscene(pano50);
+
+      lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
     
   </action>
   <hotspot name="spotpoint204"
@@ -5293,8 +5455,10 @@
   <hotspot name="spotpoint204" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint204" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint204">
-        mainloadscene(pano52);
-      lookat(-84.600000, 6.750000, 90.000000);
+        mainloadscene(pano52);
+
+      lookat(-84.600000, 6.750000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -5404,8 +5568,10 @@
   <hotspot name="spotpoint143" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint143" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint143">
-        mainloadscene(pano17);
-      lookat(94.050000, -0.900000, 90.000000);
+        mainloadscene(pano17);
+
+      lookat(94.050000, -0.900000, 90.000000);
+
     
   </action>
   <hotspot name="spotpoint144"
@@ -5420,8 +5586,10 @@
   <hotspot name="spotpoint144" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint144" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint144">
-        mainloadscene(pano51);
-      lookat(-71.550000, 6.750000, 90.000000);
+        mainloadscene(pano51);
+
+      lookat(-71.550000, 6.750000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
@@ -5531,8 +5699,10 @@
   <hotspot name="spotpoint181" devices="html5+desktop" zorder="3" zorder2="1"/>
   <hotspot name="spotpoint181" devices="tablet|mobile" zorder2="1"/>
   <action name="onclickspotpoint181">
-        mainloadscene(pano9);
-      lookat(-63.000000, 11.250000, 90.000000);
+        mainloadscene(pano9);
+
+      lookat(-63.000000, 11.250000, 90.000000);
+
     
   </action>
   <action name="hidepanopointspots">
